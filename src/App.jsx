@@ -31,7 +31,7 @@ function App() {
         />
         <button 
         type='submit'
-        className='bg-blue-600 p-3 rounded-lg ml-3 text-white font-bold'>Pesquisar</button>
+        className='bg-blue-600 p-3 rounded-lg ml-3 text-white font-bold hover:bg-blue-500'>Pesquisar</button>
       </form>
 
       <Card data={data} />
